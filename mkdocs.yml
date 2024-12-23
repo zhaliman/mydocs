@@ -1,0 +1,5 @@
+site_name: MkLorum
+nav:
+  - 主页: 主页.md
+  - 目录: 目录.md
+theme: readthedocs
